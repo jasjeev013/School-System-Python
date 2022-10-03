@@ -103,7 +103,7 @@ def logincheck():
             nam = myresult2[0][0]
             if nam=='principal':
                 login1.destroy()
-                principaldatamainmenu()
+                # principaldatamainmenu()
             elif nam=='teacher':
                 login1.destroy()
                 teacherdatamainmenu()
