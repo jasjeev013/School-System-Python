@@ -1538,7 +1538,7 @@ if __name__ == '__main__':
     root=Tk()
     root.geometry("1000x600")
     root.title("SCHOOL MANAGMENT SYSTEM")
-    root.iconbitmap('Photos/python.ico')                                      #making icon
+    # root.iconbitmap("Photos/python.ico")                                      #making icon
     my_image = ImageTk.PhotoImage(Image.open("Photos/cloud.png"))  #Bringing photo
     my_image1 = ImageTk.PhotoImage(Image.open("Photos/neps.png"))
     # my_label = Label(root,image=my_image)

@@ -1,0 +1,40 @@
+******Aryan Mishra
+
+First make database school then make table "information"(which stores homework,attendance,marks)
+1.student_homeworkshow()-----------------------DONE
+2.student_attendanceshow()----------------------
+3.student_marksshow()-----------------------DONE
+4.teacher_markswrite()-----------------------DONE
+5.teacher_attendancewrite()--------------------------DONE
+6.teacher_homeworkwrite()---------------------------DONE
+7.teacher_admissionwrite()---------------------------DONE
+8.student_admissionshow()-----------------------------DONE
+
+===============================================================
+*******Jasjeev singh
+
+1.main screen---------------------DONE
+2.login screen and database---------------------DONE
+3.student_reportcardshow()----------------DONE
+4.login student window---------------------DONE
+5.login teacher window---------------------DONE
+6.create account---------------------DONE
+7.techincal team---------------------DONE
+8.Update items---------------------DONE
+9.Delete items---------------------DONE
+10.student_thoughtshow()-------------DONE
+11.teacher_reportcardwrite()-------------DONE
+12.student_competitionshow()---------------------DONE
+13.teacher_competitionwrite()-------------------DONE
+
+==============================================================================================================
+******Lalit Mohan
+
+First create txt files named differently(thought,notice,report card,competition)
+
+1.student_noticeshow()----------------------DONE
+2.teacher_thoughtwrite()----------------------DONE
+3.teacher_noticewrite()----------------------DONE
+4.student_aboutschoolshow()------------------------DONE
+
+
