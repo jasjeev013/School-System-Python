@@ -39,7 +39,7 @@ import mysql.connector
 #     About school------------------------------------------------------
 #         all info about school
 hereistheuser="root"
-hereisthepassword="sarav123"
+hereisthepassword="newera123"
 mydb = mysql.connector.connect(host="localhost", user=hereistheuser, password=hereisthepassword)
 mycursor = mydb.cursor()
 mycursor.execute("drop database if exists school;")
