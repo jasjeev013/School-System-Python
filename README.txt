@@ -1,5 +1,34 @@
-THIS PROJECT IS MADE BY JASJEEV SINGH
-FIRST YOU NEED TO RUN Test.py SO THAT IT CAN MAKE THE DATABASE AND SET SUM LOGINS 
-THEN YOU CAN RUN THE PROJECT FREELY
-THIS PROJECT CONSISTS OF A SCHOOL APP
-YOU CAN STORE,ACCESS,DELETE,UPDATE,CREATE DATA BY USING MYSQL
+# SCHOOL MANAGEMENT SYSTEM
+
+This project is a School Management System developed by Jasjeev Singh. It is built using Python and Tkinter library for GUI. The system allows you to store, access, delete, update, and create data using MySQL database.
+
+## Getting Started
+
+To get started with the project, follow the steps below:
+
+1. Run `Test.py` to create the database and set up initial logins.
+2. Once the database is set up, you can freely run the project.
+
+## Screenshots
+
+Here are some screenshots of various pages in the School Management System:
+
+![Login Page](Photos/login.png)
+*Figure 1: Login Page*
+
+![Dashboard](Photos/dashboard.png)
+*Figure 2: Dashboard*
+
+![Student Details](Photos/student_details.png)
+*Figure 3: Student Details*
+
+![Teacher Details](Photos/teacher_details.png)
+*Figure 4: Teacher Details*
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
