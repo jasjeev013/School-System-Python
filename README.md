@@ -13,17 +13,17 @@ To get started with the project, follow the steps below:
 
 Here are some screenshots of various pages in the School Management System:
 
-![Login Page](Photos/login.png)
+![Login Page](Photos/login.jpg)
 *Figure 1: Login Page*
 
-![Dashboard](Photos/dashboard.png)
+![Dashboard](Photos/dashboard.jpg)
 *Figure 2: Dashboard*
 
-![Student Details](Photos/student_details.png)
+![Student Details](Photos/Student.jpg)
 *Figure 3: Student Details*
 
-![Teacher Details](Photos/teacher_details.png)
-*Figure 4: Teacher Details*
+![Details](Photos/details.png)
+*Figure 4: Details*
 
 ## Contributing
 
