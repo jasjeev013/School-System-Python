@@ -19,10 +19,10 @@ Here are some screenshots of various pages in the School Management System:
 ![Dashboard](Photos/dashboard.jpg)
 *Figure 2: Dashboard*
 
-![Student Details](Photos/Student.jpg)
+![Student Details](Photos/student.jpg)
 *Figure 3: Student Details*
 
-![Details](Photos/details.png)
+![Details](Photos/details.jpg)
 *Figure 4: Details*
 
 ## Contributing
